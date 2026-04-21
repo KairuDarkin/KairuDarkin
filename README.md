@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... sd
--->
+-->e
 add e
 
 co-authored-by: HapistelloGnosko <benjamimtomazcosta@gmail.com>
